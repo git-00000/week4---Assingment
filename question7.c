@@ -28,6 +28,7 @@ int main() {
     third->data = 3;
     third->next = head; // make it circular
 
+    
     if (isCircular(head))
         printf("The linked list is circular.\n");
     else

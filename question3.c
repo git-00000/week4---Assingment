@@ -55,5 +55,4 @@ int main() {
     printf("Reversed DLL: ");
     printDLL(head);
 
-    return 0;
 }
